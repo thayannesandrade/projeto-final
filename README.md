@@ -1,11 +1,3 @@
-#### Projeto Final ####
-
-# Projeto Guiado - ReactJS🚀 
-
-![image](https://media2.giphy.com/media/D567hs4Dex0GEnAKOY/giphy.gif)
-
----
-
 ## Projeto
 ### `Meu site pessoal`
 > ⚠️ Aplicação dos conceitos vistos ao longo do ciclo formativo sobre react e javascript.
