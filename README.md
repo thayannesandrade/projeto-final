@@ -2,7 +2,7 @@
 ### `Meu site pessoal`
 > ⚠️ Aplicação dos conceitos vistos ao longo do ciclo formativo sobre react e javascript.
 
-O site já está no ar e você pode acessar aqui: [Meu site pessoal](https://site-pessoal-react-eight.vercel.app/)
+O site já está no ar e você pode acessar aqui: [Meu site pessoal](https://projeto-final-delta.vercel.app//)
 
 ---
 
