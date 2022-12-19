@@ -1,0 +1,20 @@
+.header {
+    padding: 80px;
+    text-align: center;
+    color: white;
+    background-color: #da957b;
+    background-size: cover;
+    height: 520px;
+    margin-bottom: 300px;
+  }
+  
+  .header h1 {
+    font-size: 40px;
+    margin: -35px;
+  }
+  
+  .header img {
+    margin-top: 90px;
+    width: 40vw;
+    height: 60vh;
+  }
